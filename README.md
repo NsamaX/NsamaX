@@ -110,12 +110,3 @@ Feel free to drop me a line at: [vijuksama@gmail.com](mailto:vijuksama@gmail.com
   </a>
 </p>
 
----
-
-### 🎖️ Badges & Achievements
-
-<div style="text-align: center;">
-  <a href="https://github.com/NsamaX" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NsamaX&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</div>
