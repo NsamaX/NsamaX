@@ -96,17 +96,21 @@ Feel free to drop me a line at: [vijuksama@gmail.com](mailto:vijuksama@gmail.com
 
 <h3>📦 Other</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; justify-content: center;">
-<!--   Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-  </a>
 <!--   Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
-<!--   Firebase -->
-  <a href="https://filebase.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" />
+  <!-- Draw.io -->
+  <a href="https://www.diagrams.net/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/373564/drawio.svg" width="36" height="36" alt="Draw.io" />
   </a>
+<!--   Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  </a>
+<!--   Firebase -->
+<!--   <a href="https://filebase.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" />
+  </a> -->
 </p>
 
