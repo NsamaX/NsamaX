@@ -10,16 +10,6 @@ If you're curious to see what enchanting projects I've been working on, feel fre
 
 ---
 
-### 🌍 Where I Call Home
-
-**Samut Prakan, Thailand** 🇹🇭
-
-### ✉️ Let's Connect!
-
-Feel free to drop me a line at: [vijuksama@gmail.com](mailto:vijuksama@gmail.com) 💌
-
----
-
 <h3>📝 Languages</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; justify-content: center;">
 <!--   Dart -->
@@ -114,3 +104,12 @@ Feel free to drop me a line at: [vijuksama@gmail.com](mailto:vijuksama@gmail.com
 -->
 </p>
 
+---
+
+### 🌍 Where I Call Home
+
+**Samut Prakan, Thailand** 🇹🇭
+
+### ✉️ Let's Connect!
+
+Feel free to drop me a line at: [vijuksama@gmail.com](mailto:vijuksama@gmail.com) 💌
