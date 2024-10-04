@@ -1,14 +1,12 @@
-# 🌟 Hi there! 👋 I'm **Vijuksama** ✨
+# 🌟 Welcome to my magical corner of the web! 🌟
 
 <div style="text-align: center; padding: 20px; width: 100%;">
   <img src="https://media.giphy.com/media/3o7aTnP9n6raNzQ3H6/giphy.gif" alt="Welcome!" style="max-width: 100%; height: auto;" />
 </div>
 
-Welcome to my magical corner of the web! 🌈 
+こんにちは! 🐾 I’m currently having the most fun studying Information Technology at Silpakorn University! 🎓✨ My journey into the world of programming started with a tiny spark of curiosity, but now it's turned into a big, magical adventure! 🌈🪄
 
-I'm currently diving deep into **Information Technology** at **Silpakorn University**. My journey in **programming** started with a spark of curiosity, and now it’s a dazzling adventure! 🚀💖 
-
-If you’re curious about my projects and want to see what I’ve been up to, feel free to explore my [GitHub](https://www.github.com/NsamaX) >///< 💻✨
+If you're curious to see what enchanting projects I've been working on, feel free to explore my GitHub and take a peek at my coding wonders! 🖥️💫 Don’t be shy, I love sharing my journey with fellow adventurers! 🚀💖
 
 ---
 
