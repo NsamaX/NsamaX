@@ -1,10 +1,10 @@
 # 🌟 Welcome to my magical corner of the web! 🌟
-
+<!--
 <div style="text-align: center; padding: 20px; width: 100%;">
   <img src="https://media.giphy.com/media/3o7aTnP9n6raNzQ3H6/giphy.gif" alt="Welcome!" style="max-width: 100%; height: auto;" />
 </div>
-
-こんにちは! 🐾 I’m currently having the most fun studying Information Technology at Silpakorn University! 🎓✨ My journey into the world of programming started with a tiny spark of curiosity, but now it's turned into a big, magical adventure! 🌈🪄
+-->
+🐾 I’m currently having the most fun studying Information Technology at Silpakorn University! 🎓✨ My journey into the world of programming started with a tiny spark of curiosity, but now it's turned into a big, magical adventure! 🌈🪄
 
 If you're curious to see what enchanting projects I've been working on, feel free to explore my GitHub and take a peek at my coding wonders! 🖥️💫 Don’t be shy, I love sharing my journey with fellow adventurers! 🚀💖
 
@@ -107,8 +107,10 @@ Feel free to drop me a line at: [vijuksama@gmail.com](mailto:vijuksama@gmail.com
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   </a>
 <!--   Firebase -->
-<!--   <a href="https://filebase.com/" target="_blank" rel="noreferrer">
+<!--
+  <a href="https://filebase.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/filebase-colored.svg" width="36" height="36" alt="Filebase" />
-  </a> -->
+  </a>
+-->
 </p>
 
