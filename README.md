@@ -1,12 +1,8 @@
-# 🌟 Welcome to my magical corner of the web! 🌟
-<!--
-<div style="text-align: center; padding: 20px; width: 100%;">
-  <img src="https://media.giphy.com/media/3o7aTnP9n6raNzQ3H6/giphy.gif" alt="Welcome!" style="max-width: 100%; height: auto;" />
-</div>
--->
-🐾 I’m currently having the most fun studying Information Technology at Silpakorn University! 🎓✨ My journey into the world of programming started with a tiny spark of curiosity, but now it's turned into a big, magical adventure! 🌈🪄
+# Welcome to My Portfolio
 
-If you're curious to see what enchanting projects I've been working on, feel free to explore my GitHub and take a peek at my coding wonders! 🖥️💫 Don’t be shy, I love sharing my journey with fellow adventurers! 🚀💖
+I am currently pursuing a degree in Information Technology at Silpakorn University. My journey into programming began with curiosity and has grown into a passion for creating innovative solutions. 
+
+To explore my projects, visit my GitHub repository, where I share my work and welcome collaboration with fellow developers.
 
 ---
 
@@ -104,10 +100,12 @@ If you're curious to see what enchanting projects I've been working on, feel fre
 
 ---
 
-### 🌍 Where I Call Home
+### 🌍 Location
 
-**Samut Prakan, Thailand** 🇹🇭
+Samut Prakan, Thailand
 
-### ✉️ Let's Connect!
+### ✉️ Contact
 
-Feel free to drop me a line at: [vijuksama@gmail.com](mailto:vijuksama@gmail.com) 💌
+Email: [vijuksama@gmail.com](mailto:vijuksama@gmail.com)
+
+---
