@@ -1,0 +1,52 @@
+name: Daily Diary Update
+
+on:
+  schedule:
+    - cron: '0 17 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-diary:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+        
+      - name: Setup Git
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "Diary Bot"
+          
+      - name: Create diary entry
+        run: |
+          mkdir -p diary
+          python3 -c "
+          from datetime import datetime, date
+          import os
+          
+          start_date = date(2002, 11, 7)
+          current_date = date.today()
+          days_passed = (current_date - start_date).days
+          
+          filename = f'diary/date-{current_date}.txt'
+          with open(filename, 'w') as f:
+              f.write(f'days {days_passed:,}')
+          
+          print(f'Created: {filename} with days {days_passed:,}')
+          "
+          
+      - name: Commit changes
+        run: |
+          git add diary/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Diary entry: $(date +'%Y-%m-%d')"
+            git push
+          fi
