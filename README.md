@@ -31,6 +31,13 @@
 
 <br>
 
+<!-- Birds are flying - responsive with picture element -->
+<picture>
+  <source media="(max-width: 480px)" 
+          srcset="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenI0cDRiZTkwMHJzeThyOWdudGRodXI5ZnFqdjdpd3Z0bnVoNnQ3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kxc4JCa4S4x5nmdIaE/giphy.gif">
+  <img align="right" width="10%;" />
+</picture>
+
 <!-- Technologies -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/technologies-dark.svg">
