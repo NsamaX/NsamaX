@@ -1,0 +1,11 @@
+<svg width="500" height="40" xmlns="http://www.w3.org/2000/svg">
+  <text x="0%" y="50%" 
+        font-family="Georgia, 'Times New Roman', serif" 
+        font-size="32" 
+        font-weight="bold" 
+        text-anchor="left" 
+        dominant-baseline="middle" 
+        fill="#f0f6fc">
+    I'm IT &amp; Developer
+  </text>
+</svg>
